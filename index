@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>K-Editables | Etiquetas escolares</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #faf7fb;
+      color: #4b3b5a;
+    }
+
+    header {
+      background: linear-gradient(135deg, #f6c1da, #d7c6f3);
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .product {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+      text-align: center;
+    }
+
+    .price {
+      font-size: 1.5rem;
+      margin: 20px 0;
+      color: #b874b0;
+      font-weight: bold;
+    }
+
+    .btn {
+      background: #d18acb;
+      color: white;
+      padding: 15px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 1rem;
+    }
+
+    .btn:hover {
+      background: #b874b0;
+    }
+
+    footer {
+      background: #eee7f3;
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>K-Editables 👑</h1>
+  <p>Editá, imprimí y coroná cada cuaderno</p>
+</header>
+
+<section>
+  <h2>Kit destacado</h2>
+
+  <div class="product">
+    <h3>Kit completo de etiquetas escolares – Editable Canva</h3>
+
+    <p>
+      Incluye etiquetas para cuadernos, carpetas, útiles, mochila y más.
+      Editable en Canva de forma fácil y rápida.
+    </p>
+
+    <p>📩 Entrega inmediata por mail</p>
+
+    <div class="price">$ XXXX</div>
+
+    <a class="btn"
+       href="https://wa.me/541134630122?text=Hola%20quiero%20comprar%20el%20kit%20de%20etiquetas%20editables">
+       Comprar
+    </a>
+  </div>
+</section>
+
+<section>
+  <h2>Sobre mí</h2>
+  <p style="text-align:center; max-width:700px; margin:auto;">
